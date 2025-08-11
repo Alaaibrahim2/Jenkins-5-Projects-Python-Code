@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: project-k8s-deployment
-        image: tampoohoonm/python-project:latest
+        image: alaai/ana:latest
         ports:
         - containerPort: 5000
 
